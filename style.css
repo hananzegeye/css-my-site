@@ -1,0 +1,87 @@
+body {
+    margin: 0;
+    text-align: center;
+}
+
+
+.top-container {
+    background-color: rgb(28, 218, 243);
+}
+
+.bottom-cloud {
+    position: absolute;
+    top: 100px;  
+}
+
+h1 {
+    font-family: 'Sacramento', cursive;
+}
+
+h1 {
+    color:green;
+    font-weight: normal;
+    line-height: 2px;
+}
+
+h2 {
+    color:brown;
+    
+}
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto;
+    text-align: left;
+}
+
+.profile-pic {
+    border-radius: 50%;
+    width: 10%;
+}
+
+.education-pic {
+    float: left;
+    margin-right: 30px;
+    width: 25%;
+}
+.master {
+    width: 25%;
+    float: right 100px;
+    margin-left: 550px;
+    position: absolute;
+    bottom: 0px auto;
+    top:3px auto;
+    width: 250px;
+    right: 30px;
+
+}
+
+.bottom-container {
+background-color: lightblue;
+height: 110px;
+}
+.design{
+    color: rgb(220, 20, 143);
+}
+
+.sparklin {
+    width: 100px;
+}
+
+.sparklin-1{
+    float:left
+}
+
+.sparklin-2{
+    float:right
+}
+
+.comp {
+    border: 1px solid black;
+    background: url(images/computer.png);
+    background-size: 100px 80px;
+    background-repeat: no-repeat;
+    padding: 0px;
+    width: 115px;
+  }
+  
