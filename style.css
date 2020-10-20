@@ -5,34 +5,32 @@ body {
 
 
 .top-container {
-    background-color: rgb(28, 218, 243);
+    background-color:#a6dcef;
+    
+    text-align: center;
 }
 
 .bottom-cloud {
     position: absolute;
-    top: 100px;  
+    top: 100px; 
+    color: azure; 
 }
 
 h1 {
-    font-family: 'Sacramento', cursive;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
-h1 {
-    color:green;
+h1 h2 {
+    color:white;
     font-weight: normal;
     line-height: 2px;
-}
-
-h2 {
-    color:brown;
-    
 }
 
 .skill-row {
     width: 50%;
     margin: 100px auto;
     text-align: left;
-}
+ }
 
 .profile-pic {
     border-radius: 50%;
@@ -42,40 +40,29 @@ h2 {
 .education-pic {
     float: left;
     margin-right: 30px;
-    width: 25%;
+    width: 35%;
 }
+
 .master {
     width: 25%;
-    float: right 100px;
+    float: right 200px;
     margin-left: 550px;
     position: absolute;
     bottom: 0px auto;
-    top:3px auto;
-    width: 250px;
+    top:1200px;
+    width: 230px;
     right: 30px;
-
 }
 
 .bottom-container {
-background-color: lightblue;
-height: 110px;
+background-color:#ffe4e4;
+height: 120px;
+text-align: center;
 }
+
 .design{
-    color: rgb(220, 20, 143);
+    color:black;
 }
-
-.sparklin {
-    width: 100px;
-}
-
-.sparklin-1{
-    float:left
-}
-
-.sparklin-2{
-    float:right
-}
-
 .comp {
     border: 1px solid black;
     background: url(images/computer.png);
@@ -85,3 +72,32 @@ height: 110px;
     width: 115px;
   }
   
+  .bo{
+      text-align: center top;
+      width: 100px;
+      
+  }
+  .bo1{
+    float: right;
+    width: 100px;
+    
+ }
+
+.bo2{
+    float: left;
+    width: 100px;
+}
+
+.h {
+    color: black;
+}
+.middle-container{
+    background-color:#f7fbe1
+}
+.contact-me{
+    text-align: center;
+}
+
+.skills-1{
+    text-align: center;
+}
